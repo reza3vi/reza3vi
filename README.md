@@ -3,7 +3,6 @@
 - 🔭 I’m currently working as a Web Developer
 - 🌱 I’m currently learning web, ui & ux
 - 🏋️ Workout every day!
--->
 
 ### Connect with me
 
