@@ -6,11 +6,12 @@
 
 ### Connect with me
 
-[<img align="left" alt="LinkedIn" width="32" src="https://github.com/reza3vi/reza3vi/blob/main/assets/imgs/linkedin.png" />]( https://www.linkedin.com/in/rezamahmoodi/)
+[<img align="left" alt="LinkedIn" width="32" src="https://github.com/reza3vi/reza3vi/blob/main/assets/imgs/linkedin.png" />](https://www.linkedin.com/in/rezamahmoodi/)
+[<img align="left" alt="Jobinja" width="32" src="https://github.com/reza3vi/reza3vi/blob/main/assets/imgs/jobinja.png" />](https://jobinja.ir/user/reza3vi)
 <br>
 <br>
 
-### Languages and Tools
+### Languages and tools
 
 [<img align="left" alt="Vuejs" width="32" src="https://github.com/reza3vi/reza3vi/blob/main/assets/imgs/vuejs.png" />](https://vuejs.org/)
 [<img align="left" alt="Ionic" width="32" src="https://github.com/reza3vi/reza3vi/blob/main/assets/imgs/ionic.png" />](https://ionicframework.com/)
@@ -32,5 +33,6 @@
 -
 [<img align="left" alt="VSCode" width="32" src="https://github.com/reza3vi/reza3vi/blob/main/assets/imgs/vscode.png" />](https://code.visualstudio.com/)
 [<img align="left" alt="Git" width="32" src="https://github.com/reza3vi/reza3vi/blob/main/assets/imgs/git.png" />](https://git-scm.com/)
+[<img align="left" alt="Azure" width="32" src="https://github.com/reza3vi/reza3vi/blob/main/assets/imgs/azure.png" />](https://azure.microsoft.com/)
 [<img align="left" alt="NPM" width="32" src="https://github.com/reza3vi/reza3vi/blob/main/assets/imgs/npm.png" />](https://www.npmjs.com/)
 
