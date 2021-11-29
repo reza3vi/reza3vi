@@ -20,9 +20,11 @@
 <br>
 <br>
 -
-[<img align="left" alt="HTML" width="32" src="https://github.com/reza3vi/reza3vi/blob/main/assets/imgs/html.png" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img align="left" alt="Css" width="32" src="https://github.com/reza3vi/reza3vi/blob/main/assets/imgs/css.png" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img align="left" alt="JS" width="32" src="https://github.com/reza3vi/reza3vi/blob/main/assets/imgs/js.png" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img align="left" alt="HTML" width="32" src="https://github.com/reza3vi/reza3vi/blob/main/assets/imgs/html.png" />](https://developer.mozilla.org/en-US/docs/Web/HTML/)
+[<img align="left" alt="Css" width="32" src="https://github.com/reza3vi/reza3vi/blob/main/assets/imgs/css.png" />](https://developer.mozilla.org/en-US/docs/Web/CSS/)
+[<img align="left" alt="Scss" width="32" src="https://github.com/reza3vi/reza3vi/blob/main/assets/imgs/scss.png" />](https://sass-lang.com/)
+[<img align="left" alt="JS" width="32" src="https://github.com/reza3vi/reza3vi/blob/main/assets/imgs/js.png" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
+[<img align="left" alt="TS" width="32" src="https://github.com/reza3vi/reza3vi/blob/main/assets/imgs/ts.png" />](https://www.typescriptlang.org/)
 <br>
 <br>
 -
@@ -33,6 +35,9 @@
 <br>
 -
 [<img align="left" alt="VSCode" width="32" src="https://github.com/reza3vi/reza3vi/blob/main/assets/imgs/vscode.png" />](https://code.visualstudio.com/)
+<br>
+<br>
+-
 [<img align="left" alt="Git" width="32" src="https://github.com/reza3vi/reza3vi/blob/main/assets/imgs/git.png" />](https://git-scm.com/)
 [<img align="left" alt="Azure" width="32" src="https://github.com/reza3vi/reza3vi/blob/main/assets/imgs/azure.png" />](https://azure.microsoft.com/)
 [<img align="left" alt="NPM" width="32" src="https://github.com/reza3vi/reza3vi/blob/main/assets/imgs/npm.png" />](https://www.npmjs.com/)
