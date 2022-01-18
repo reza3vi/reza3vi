@@ -42,8 +42,8 @@
 [<img align="left" alt="Azure" width="32" src="https://github.com/reza3vi/reza3vi/blob/main/assets/imgs/azure.png" />](https://azure.microsoft.com/)
 [<img align="left" alt="NPM" width="32" src="https://github.com/reza3vi/reza3vi/blob/main/assets/imgs/npm.png" />](https://www.npmjs.com/)
 
-<br>
 -----
+
 Credits: [reza3vi](https://github.com/reza3vi)
 
 Last Edited on: 1/18/2022
