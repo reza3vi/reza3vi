@@ -8,7 +8,7 @@
 
 [<img align="left" alt="LinkedIn" width="32" src="https://github.com/reza3vi/reza3vi/blob/main/assets/imgs/linkedin.png" />](https://www.linkedin.com/in/rezamahmoodi/)
 [<img align="left" alt="Jobinja" width="32" src="https://github.com/reza3vi/reza3vi/blob/main/assets/imgs/jobinja.png" />](https://jobinja.ir/user/reza3vi)
-[<img align="left" alt="Quera" width="32" src="https://github.com/reza3vi/reza3vi/blob/main/assets/imgs/quera.png" />](https://quera.org/profile/4mq4vd)
+[<img align="left" alt="Quera" width="32" src="https://github.com/reza3vi/reza3vi/blob/main/assets/imgs/quera.png" />](https://quera.org/profile/reza3vi)
 [<img align="left" alt="CV" width="32" src="https://github.com/reza3vi/reza3vi/blob/main/assets/imgs/cv.png" />](https://stackoverflow.com/jobs/resume/download?accountId=4971296)
 <br>
 <br>
