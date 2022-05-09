@@ -1,5 +1,7 @@
 ## Introduction
 
+I am a Front End developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with Vuejs and Angular.
+
 - 🔭 I’m currently working as a Senior Frontend Developer
 - 🌱 I’m currently learning web, ui & ux
 - 🏋️ Workout every day!
